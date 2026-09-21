@@ -1,0 +1,40 @@
+AI FOR ECOSYSTEM SUSTAINABILITY
+
+Vegetation and Ecosystem Monitoring
+Vegetation monitoring helps understand changes in plant cover, ecosystem conditions,
+forest resources and biodiversity. Environmental indicators can be analyzed using
+machine learning to support ecosystem monitoring.
+
+Forest Conservation
+Forest ecosystems provide habitat for biodiversity and contribute to ecosystem
+stability. Conservation activities can include forest monitoring, restoration,
+afforestation and protection of natural habitats.
+
+Biodiversity Protection
+Biodiversity protection focuses on maintaining species, habitats and ecosystem
+variety. Environmental data can support identification of patterns that may require
+further ecological investigation.
+
+Climate Change
+Climate-related indicators such as temperature, rainfall, carbon dioxide emissions,
+sea-level rise and extreme weather events can influence ecosystem conditions.
+Monitoring these indicators can support environmental assessment.
+
+Sustainable Ecosystem Management
+Sustainable ecosystem management combines environmental information with responsible
+decision-making. Machine learning predictions should be treated as decision-support
+information and validated using reliable ecological data and expert knowledge.
+
+SDG 13 - Climate Action
+Climate action includes efforts to understand and respond to climate-related risks,
+reduce environmental impacts and improve resilience.
+
+SDG 15 - Life on Land
+Life on Land focuses on protecting terrestrial ecosystems, sustainably managing
+forests, combating land degradation and biodiversity loss, and supporting ecosystem
+restoration.
+
+Responsible AI for Environmental Applications
+AI predictions should not be treated as final ecological decisions. Predictions
+should be interpreted together with data quality, environmental context and expert
+knowledge.
